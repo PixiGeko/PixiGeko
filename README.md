@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/> [PixiGeko](https://twitter.com/PixiGeko) <br/>
 
-<!--
-**PixiGeko/PixiGeko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/733/733579.svg"/> [Pixi.exe](https://twitter.com/PixiPointExe)<br/>
 
-Here are some ideas to get you started:
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://image.flaticon.com/icons/svg/2111/2111370.svg"/> [My (emtpy) Discord](https://discord.gg/9zjeRk7)<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img align="center" alt="PixiGeko's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PixiGeko&show_icons=true&hide_border=true&theme=solarized-dark" /><br/>
+<img align="center" alt="PixiGeko's languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixiGeko&theme=solarized-dark&layout=compact" /><br/>
+
+---
+
+🌻 Love sunflowers forever 🌻
